@@ -1,0 +1,20 @@
+Auditd helps monitor and track system events.
+
+1.Install auditd:
+sudo apt install auditd
+
+2.Start and enable auditd:
+sudo systemctl start auditd
+sudo systemctl enable auditd
+
+3.Configure auditd to monitor key directories and files:
+sudo nano /etc/audit/rules.d/audit.rules
+
+Example rule to monitor /etc/passwd changes:
+-w /etc/passwd -p wa -k passwd_changes
+
+4.Restart auditd:
+sudo systemctl restart auditd
+
+5.Check audit logs:
+sudo ausearch -f /etc/passwd
