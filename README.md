@@ -11,7 +11,7 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
  
   - [Set Strong File Permissions](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Set%20Strong%20File%20Permissions)
 
-  - [Remove Unnecessary Services and Packages](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
+  - [Remove Unnecessary Services and Packages](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Remove%20Unnecessary%20Services%20and%20Packages)
   - - <b>Security Logs Detection</b>
   - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
   - - <b>Security Logs Detection</b>
