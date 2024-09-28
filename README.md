@@ -9,7 +9,7 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
     
   - [Manage Users and Groups](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Manage%20Users%20and%20Groups)
  
-  - [Set Strong File Permissions](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
+  - [Set Strong File Permissions]()
   - - <b>Security Logs Detection</b>
   - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
   - - <b>Security Logs Detection</b>
