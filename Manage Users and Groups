@@ -1,0 +1,13 @@
+Ensure that only authorized users have access to the server.
+Only give permission to the right user.
+
+1.Create a new user for administration purposes:
+sudo adduser adminuser
+sudo usermod -aG sudo adminuser
+
+2.Test the new user:
+su - adminuser
+sudo whoami  # Should return 'root'
+
+3.Lock the root account:
+sudo passwd -l root
