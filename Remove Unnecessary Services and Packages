@@ -1,0 +1,7 @@
+List and remove unused services and packages to minimize attack surface:
+
+1.Check active services:
+sudo systemctl list-units --type=service
+
+2.Uninstall unnecessary services (e.g., Apache if not used):
+sudo apt remove apache2 -y
