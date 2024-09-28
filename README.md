@@ -16,6 +16,6 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
   - [Install Fail2Ban](https://github.com/TayLuo/Secure-Linux-Server-with-Fail2Ban)
  
   - [ Disable Unused Network Ports](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
-  - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
- - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
+  - [Set Up Log Auditing](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Monitoring%20and%20Auditing)
+ - [Install and Configure Logwatch](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
  - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
