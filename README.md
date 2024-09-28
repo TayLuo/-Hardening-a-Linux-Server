@@ -3,7 +3,7 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
 
 
 - <b>Update Your System</b>
-  - [Update and Upgrade the System](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/Create%20ADUsers.txt)
+  - [Update and Upgrade the System](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Update%20Your%20System)
 - <b>Create bulk users through powershell Script</b>
   - [Create users through CSV file](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/CreateADUsersFromCSV.ps1)
  
