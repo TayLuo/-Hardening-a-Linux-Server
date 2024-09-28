@@ -1,0 +1,7 @@
+Logwatch generates reports from system logs, summarizing important security-related events
+
+1.Install Logwatch:
+sudo apt install logwatch
+
+2.Generate a daily log report:
+sudo logwatch --detail high --service all --range today
