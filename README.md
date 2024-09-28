@@ -18,4 +18,4 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
   - [ Disable Unused Network Ports](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
   - [Set Up Log Auditing](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Monitoring%20and%20Auditing)
  - [Install and Configure Logwatch](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Logwatch)
- - [Run a Vulnerability Scan with Lynis](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
+ - [Run a Vulnerability Scan with Lynis](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Security%20Testing)
