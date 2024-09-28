@@ -1,0 +1,11 @@
+Disabling root login over SSH and enforcing key-based authentication adds an extra layer of security.
+
+1.Open the SSH configuration file:
+sudo nano /etc/ssh/sshd_config
+
+2.Set the following options:
+PermitRootLogin no
+PasswordAuthentication no
+
+3.sudo systemctl restart sshd
+sudo systemctl restart sshd
