@@ -1,0 +1,9 @@
+To secure important system files, you need to set the correct permissions.
+
+1. Set permissions on /etc/ssh/sshd_config:
+sudo chmod 600 /etc/ssh/sshd_config
+sudo chown root:root /etc/ssh/sshd_config
+
+2.Set permissions on /etc/passwd and /etc/shadow:
+sudo chmod 644 /etc/passwd
+sudo chmod 600 /etc/shadow
