@@ -6,6 +6,7 @@ Configure Automatic Security Updates
 
 1.Install unattended-upgrades:
 sudo apt install unattended-upgrades -y
+
 2. Configure unattended-upgrades:
 sudo dpkg-reconfigure --priority=low unattended-upgrades
 
