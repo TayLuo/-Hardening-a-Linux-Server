@@ -1,6 +1,6 @@
 Keep your system up to date to ensure all security patches are installed.
 
-sudo apt update && sudo apt upgrade -y
+1. sudo apt update && sudo apt upgrade -y
 
 Configure Automatic Security Updates
 
