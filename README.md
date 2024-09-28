@@ -8,7 +8,7 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
   - [Disable Root Login and Password Authentication](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Protect%20Your%20Root)
     
   - [Manage Users and Groups](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Manage%20Users%20and%20Groups)
-  - [Set Password Expiration Policy](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Set%20Strong%20File%20Permissions)
+  - [Set Password Expiration Policy](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Manage%20password%20policies)
   - [Set Strong File Permissions](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Set%20Strong%20File%20Permissions)
 
   - [Remove Unnecessary Services and Packages](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Remove%20Unnecessary%20Services%20and%20Packages)
