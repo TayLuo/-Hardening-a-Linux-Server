@@ -7,7 +7,7 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
   - [Set Up a Firewall with UFW](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Firewall%20with%20UFW)
   - [Disable Root Login and Password Authentication](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Protect%20Your%20Root)
     
-  - [Manage Users and Groups](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
+  - [Manage Users and Groups](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Manage%20Users%20and%20Groups)
   - - <b>Security Logs Detection</b>
   - [Monitoring Security Logs](https://github.com/TayLuo/Cybersecurity-Project-with-PowerShell/blob/main/EventLog%20Monitoring.txt)
   - - <b>Security Logs Detection</b>
