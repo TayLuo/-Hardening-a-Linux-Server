@@ -1,0 +1,8 @@
+Disable unused network ports to limit attack vectors:
+
+1.List open ports:
+sudo netstat -tuln
+
+2.Close unused ports by stopping services or blocking with UFW:
+sudo ufw deny <port>
+
