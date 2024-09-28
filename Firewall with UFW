@@ -1,0 +1,13 @@
+1.Install UFW
+sudo apt install ufw
+
+2.Allow SSH and other necessary services:
+sudo ufw allow ssh
+sudo ufw allow http   # If you're running a web server
+sudo ufw allow https  # For secure web traffic
+
+3.Enable UFW:
+sudo ufw enable
+
+4.Check firewall status:
+sudo ufw status
