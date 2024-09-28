@@ -1,3 +1,11 @@
 Keep your system up to date to ensure all security patches are installed.
 
 sudo apt update && sudo apt upgrade -y
+
+Configure Automatic Security Updates
+
+1.Install unattended-upgrades:
+sudo apt install unattended-upgrades -y
+2. Configure unattended-upgrades:
+sudo dpkg-reconfigure --priority=low unattended-upgrades
+
