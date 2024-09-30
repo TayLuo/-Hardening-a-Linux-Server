@@ -6,7 +6,7 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
   - [Update and Upgrade the System](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Update%20Your%20System)
   - [Set Up a Firewall with UFW](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Firewall%20with%20UFW)
   - [Disable Root Login and Password Authentication](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Protect%20Your%20Root)
-    
+  - [SSH Passwordless Authentication](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/SSH%20Passwordless%20Authentication)
   - [Manage Users and Groups](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Manage%20Users%20and%20Groups)
   - [Set Password Expiration Policy](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Manage%20password%20policies)
   - [Set Strong File Permissions](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Set%20Strong%20File%20Permissions)
