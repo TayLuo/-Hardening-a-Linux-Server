@@ -19,3 +19,4 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
   - [Set Up Log Auditing](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Monitoring%20and%20Auditing)
  - [Install and Configure Logwatch](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Logwatch)
  - [Run a Vulnerability Scan with Lynis](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Security%20Testing)
+-[Install Antivirus on Ubuntu Server](https://github.com/TayLuo/Install-and-Configure-ClamAV/blob/main/README.md)
