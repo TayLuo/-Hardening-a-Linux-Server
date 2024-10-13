@@ -21,3 +21,4 @@ A Linux Server Hardening project is an excellent choice to showcase your skills 
  - [Run a Vulnerability Scan with Lynis](https://github.com/TayLuo/Hardening-a-Linux-Server/blob/main/Security%20Testing)
  -  [Install Antivirus on Ubuntu Server](https://github.com/TayLuo/Install-and-Configure-ClamAV/blob/main/README.md)
  - [Testing strength of a password with John the Ripper](https://github.com/TayLuo/Testing-Weak-Password-with-John-the-Ripper/blob/main/README.md)
+ - [Let's defend with IDS(Snort)](https://github.com/TayLuo/IDS-with-Snort/blob/main/README.md)
