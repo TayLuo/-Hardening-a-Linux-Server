@@ -1,7 +1,7 @@
 Lynis is a security auditing tool for Linux.
 
 1.Install Lynis:
-sudo apt install lynis
+	sudo apt install lynis
 
 2.Run a system audit:
-sudo lynis audit system
+	sudo lynis audit system
