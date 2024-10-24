@@ -6,3 +6,4 @@ Lynis is a security auditing tool for Linux.
 2.Run a system audit:
 	sudo lynis audit system
 
+
